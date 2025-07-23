@@ -8,7 +8,7 @@
 #include <sys/mman.h>
 #include <string.h>
 #include <sys/wait.h>
-
+//  shm_open and mmap
 int main(int argc, char *argv[])
 {
     pid_t pid;

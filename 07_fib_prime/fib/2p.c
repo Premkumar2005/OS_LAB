@@ -5,7 +5,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <sys/shm.h>
-
+//  using shmget and shmat
 int main(int argc, char *argv[])
 {
     int i;

@@ -32,6 +32,4 @@ mnist_test.csv
 california_housing_train.csv
 california_housing_test.csv
 mnist_train_small.csv
-
-
 */

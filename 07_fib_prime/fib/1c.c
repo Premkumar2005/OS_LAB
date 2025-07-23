@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//  using shmget and shmat
 int main(int argc, char *argv[])
 {
     int k = 2, n1 = 0, n2 = 1, n3;
